@@ -41,7 +41,7 @@ student-records-api/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-records-api.git
+git clone https://soksreng/your-username/student-records-api.git
 cd student-records-api
 ```
 
@@ -116,12 +116,20 @@ Example body for POST:
 ## 📸 Screenshots
 
 - [x] GET /students
-- [x] POST /students
-- [x] GET /students/:id
-- [x] PUT /students/:id
-- [x] DELETE /students/:id
+      ![Screenshot 2025-04-17 230126](https://github.com/user-attachments/assets/224616f3-252f-4fae-9b05-311a96520c5f)
 
-*(Screenshots available in the repository or project submission.)*
+- [x] POST /students
+      ![Screenshot 2025-04-17 230354](https://github.com/user-attachments/assets/68a5ea1e-caaf-4b0e-ad81-1fdf37310412)
+
+- [x] GET /students/:id
+      ![Screenshot 2025-04-17 230553](https://github.com/user-attachments/assets/7b960d96-f7fb-4f81-9ed3-6770f6e412e5)
+
+- [x] PUT /students/:id
+      ![Screenshot 2025-04-17 230627](https://github.com/user-attachments/assets/96a478d8-c29f-4b0f-a144-772abd3412b3)
+
+- [x] DELETE /students/:id
+      ![Screenshot 2025-04-17 230821](https://github.com/user-attachments/assets/71e17ee7-c2ed-4a58-a0bf-082b27000145)
+
 
 ---
 
@@ -133,16 +141,9 @@ Example body for POST:
 
 ---
 
-## ✨ Future Improvements (Optional Ideas)
 
-- Add pagination for GET all students
-- Add search/filter functionality
-- Add user authentication (JWT)
-- Host API online (Render, Vercel, etc.)
-
----
 
 ## 📌 Author
 
 - Name: Chan Sok Sreng
-- Project for Practice / School Assignment
+- Project for Practice
